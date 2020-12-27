@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Jul 29 17:35:05 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "rx" LOCATE = SITE "A16" LEVEL 1;
+COMP "tx" LOCATE = SITE "B16" LEVEL 1;
+COMP "clk" LOCATE = SITE "L15" LEVEL 1;
+COMP "fetch_LED" LOCATE = SITE "M13" LEVEL 1;
+COMP "enablle" LOCATE = SITE "P12" LEVEL 1;
+COMP "top_enable" LOCATE = SITE "P15" LEVEL 1;
+COMP "pause_LED" LOCATE = SITE "D4" LEVEL 1;
+COMP "tx_LED" LOCATE = SITE "N14" LEVEL 1;
+COMP "rxIM_LED" LOCATE = SITE "U18" LEVEL 1;
+COMP "rxIN_LED" LOCATE = SITE "M14" LEVEL 1;
+SCHEMATIC END;
+

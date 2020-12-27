@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\m\Processor_Total_2\top_processor.ncd
+OUTFILE=E:\m\Processor_Total_2\top_processor.bit
+FAMILY=Spartan6
+PART=xc6slx45-3csg324
+WORKINGDIR=E:\m\Processor_Total_2
+LICENSE=WebPack
+USER_INFO=__0_0_0

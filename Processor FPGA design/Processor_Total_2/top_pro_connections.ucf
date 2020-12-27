@@ -1,0 +1,22 @@
+
+NET "clk" 		LOC = "L15";
+
+NET "rx" 		LOC = "A16";
+NET "tx" 		LOC = "B16";
+
+
+//NET "resume_sw" 	LOC = "R5";
+NET "pause_LED" 	LOC = "D4";
+
+NET "enablle"      LOC = "P12";
+NET "fetch_LED" LOC = "M13";
+
+NET "top_enable" LOC = "P15";
+
+
+NET "tx_LED" LOC = "N14";
+NET "rxIN_LED" LOC = "M14";
+NET "rxIM_LED" LOC = "U18";
+
+
+
